@@ -1,0 +1,10 @@
+*.log
+__pycache__/
+.pytest_cache/
+.coverage
+*.pyc
+node_modules/
+.env
+kubeconfig
+*.swp
+.DS_Store
